@@ -17,8 +17,8 @@ keywords:
   - payne
   - magazine
 description: 'Clients and Projects of International Travel Photographer, and Author, Mark Paulda. Top Travel Photographer in the World.'
-datePublished: '2015-12-20T23:09:06.157Z'
-dateModified: '2015-12-20T23:08:15.254Z'
+datePublished: '2015-12-20T23:45:05.222Z'
+dateModified: '2015-12-20T23:39:25.268Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Mark Paulda Travel Photography &amp;vert; Clients and Projects</h1><p>Clients and Projects of International Travel Photographer&amp;comma; and Author&amp;comma; Mark Paulda&amp;period; Top Travel Photographer in the World&amp;period;</p><img src="https://static.wixstatic.com/media/8c75d1_685e27f274ca479c8141c3f1863580e5.jpg_srz_2560_1491_85_22_0.50_1.20_0.00_jpg_srz" /></article>
+![Clients & Projects of Travel Photographer Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e46d490141393553d124145312b4bcddffea8c1.jpg)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c568f677-8dcf-4adb-ba9b-b7727ca147b0.jpg)
+<article style=""><h1>Mark Paulda Travel Photography &amp;vert; Clients and Projects</h1><p>Clients and Projects of International Travel Photographer&amp;comma; and Author&amp;comma; Mark Paulda&amp;period; Top Travel Photographer in the World&amp;period;</p><img src="https://static.wixstatic.com/media/8c75d1_685e27f274ca479c8141c3f1863580e5.jpg_srz_2560_1491_85_22_0.50_1.20_0.00_jpg_srz" /></article>
