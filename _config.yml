@@ -1,0 +1,28 @@
+name: Mark Paulda Travel Photography
+favicon: null
+layout_spectrum: 0.6584006596822292
+typography_spectrum: 0.9272489978466183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7514431737363338
+  lightness: 0.2179869068786502
+  saturation: 0.20825225277803838
+  rhythmicContrast: 0.44872372318059206
+purpose: []
