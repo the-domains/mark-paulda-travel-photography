@@ -17,8 +17,8 @@ keywords:
   - decker
   - river
 description: Travel along with Photographer Mark Paulda as he photographs the Great City of London. London Night Photographer Mark Paulda.
-datePublished: '2015-12-20T23:45:47.539Z'
-dateModified: '2015-12-20T23:31:04.018Z'
+datePublished: '2015-12-20T23:52:08.753Z'
+dateModified: '2015-12-20T23:52:03.948Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![London Blackfriars Bridge at Night](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24ffd947-8009-4ab0-86ef-44f5d6d27898.jpg)
+![London Blackfriars Bridge at Night](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a26844fc14fc9910096af5c32d000eb822e6a9c9.jpg)
 
 <article style=""><h1>Mark Paulda Travel Photography &amp;vert; London Night Photography</h1><p>Travel along with Photographer Mark Paulda as he photographs the Great City of London&amp;period; London Night Photographer Mark Paulda&amp;period;</p><img src="https://static.wixstatic.com/media/8c75d1_7eabecfa46904919bfcd52f947fc628f.jpg_srz_2500_1875_85_22_0.50_1.20_0.00_jpg_srz" /></article>
