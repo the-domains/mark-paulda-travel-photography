@@ -17,8 +17,8 @@ keywords:
   - published
   - travel
 description: 'Photography Books by Mark Paulda. Celebrating El Paso, El Paso 120, The Wandering Wayfarer. TCU Press. Travel Photographer Mark Paulda'
-datePublished: '2015-12-20T23:45:30.616Z'
-dateModified: '2015-12-20T23:21:23.674Z'
+datePublished: '2015-12-20T23:51:06.886Z'
+dateModified: '2015-12-20T23:50:47.950Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7518dd30-88f2-4945-a0b1-afe02f5e0690.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89b339a56a1793932b99f1bf5ad439d1cb8f5651.jpg)
 
 <article style=""><h1>Mark Paulda Travel Photography &amp;vert; Mark Paulda Photography Books</h1><p>Photography Books by Mark Paulda&amp;period; Celebrating El Paso&amp;comma; El Paso 120&amp;comma; The Wandering Wayfarer&amp;period; TCU Press&amp;period; Travel Photographer Mark Paulda</p><img src="https://static.wixstatic.com/media/8c75d1_a8ec8f145a384c8e8a188ad6b66dcb8b.jpg_srz_979_1305_85_22_0.50_1.20_0.00_jpg_srz" /></article>
