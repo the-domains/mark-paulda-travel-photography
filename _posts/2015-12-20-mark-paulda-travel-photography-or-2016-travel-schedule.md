@@ -17,8 +17,8 @@ keywords:
   - sri
   - lanka
 description: 2016 Travel Schedule for International Travel Photographer Mark Paulda. One of Top 100 Photographers in the World.
-datePublished: '2015-12-20T23:45:14.699Z'
-dateModified: '2015-12-20T23:25:05.222Z'
+datePublished: '2015-12-20T23:50:00.601Z'
+dateModified: '2015-12-20T23:49:55.834Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![2016 Travel Schedule - Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90305dd38739b653d05d200e03d455b42a9a9af.jpg)
+![2016 Travel Schedule - Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a96575ccd20a76de3bd997527b9058b47fc8ac74.jpg)
