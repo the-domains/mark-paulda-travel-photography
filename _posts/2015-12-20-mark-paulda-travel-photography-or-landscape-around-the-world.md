@@ -17,8 +17,8 @@ keywords:
   - sands
   - sunset
 description: 'Colorful, and dramatic, landscape photography from around the world by International Travel Photographer Mark Paulda.'
-datePublished: '2015-12-20T23:45:53.725Z'
-dateModified: '2015-12-20T23:35:43.459Z'
+datePublished: '2015-12-20T23:52:37.832Z'
+dateModified: '2015-12-20T23:52:32.269Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![The Dunes of the Sahara Desert](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60263275-4822-4c04-a814-50e5de9e0499.jpg)
+![The Dunes of the Sahara Desert](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bb2c0ae38c23ad9718d43e6c90a230a0c00735c.jpg)
 
 <article style=""><h1>Mark Paulda Travel Photography &amp;vert; Landscape Around the World</h1><p>Colorful&amp;comma; and dramatic&amp;comma; landscape photography from around the world by International Travel Photographer Mark Paulda&amp;period;</p><img src="https://static.wixstatic.com/media/8c75d1_0f72ffbae441418083146aa0d27876a1.jpg_srz_2500_1667_85_22_0.50_1.20_0.00_jpg_srz" /></article>
