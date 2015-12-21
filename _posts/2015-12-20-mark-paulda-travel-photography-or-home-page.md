@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Offical website of world traveler, travel photographer, and best selling author, Mark Paulda. Commercial travel photographer.'
-datePublished: '2015-12-20T23:54:15.326Z'
-dateModified: '2015-12-20T23:54:10.664Z'
+datePublished: '2015-12-21T03:01:00.454Z'
+dateModified: '2015-12-21T03:00:53.406Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Official Website of International Travel Photographer of Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ada7c5252579bf1d9f4e70e2796ff5f2efc27dd.png)
-
-<article style=""><h1>Mark Paulda Travel Photography &amp;vert; Home Page</h1><p>Offical website of world traveler&amp;comma; travel photographer&amp;comma; and best selling author&amp;comma; Mark Paulda&amp;period; Commercial travel photographer&amp;period;</p></article>
+![Official Website of International Travel Photographer of Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d4384151e8f4f4ef7d58bbb20a17a7beae2c2c7.png)
