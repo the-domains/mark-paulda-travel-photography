@@ -17,8 +17,8 @@ keywords:
   - night
   - reflection
 description: 'International Travel Photographer Mark Paulda Photo Portfolio of Destinations Around the World Including Venice Italy, Marrakech, Mont Saint Michel, Bangkok'
-datePublished: '2015-12-20T23:53:43.450Z'
-dateModified: '2015-12-20T23:53:40.474Z'
+datePublished: '2015-12-21T03:22:28.633Z'
+dateModified: '2015-12-21T03:22:18.929Z'
 author: []
 related: []
 app_links: []
@@ -36,5 +36,3 @@ _type: MediaObject
 
 ---
 ![Venice Italy Stock Photo](https://s3-us-west-2.amazonaws.com/the-grid-img/p/caea5f8d8b38cab790074d48eb9b2446c1e3291a.jpg)
-
-<article style=""><h1>Mark Paulda Travel Photography &amp;vert; Destinations</h1><p>International Travel Photographer Mark Paulda Photo Portfolio of Destinations Around the World Including Venice Italy&amp;comma; Marrakech&amp;comma; Mont Saint Michel&amp;comma; Bangkok</p><img src="https://static.wixstatic.com/media/8c75d1_3ecc9721545843c699c068e69e4b06e7.jpg_srz_2500_1667_85_22_0.50_1.20_0.00_jpg_srz" /></article>
