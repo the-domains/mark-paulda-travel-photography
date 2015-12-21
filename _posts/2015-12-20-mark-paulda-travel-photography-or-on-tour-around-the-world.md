@@ -17,8 +17,8 @@ keywords:
   - morocco
   - venice
 description: "International travel photographer, Mark Paulda, explores cities around the world capturing colourful travel photos. License Paulda's travel stock photography."
-datePublished: '2015-12-20T23:53:11.772Z'
-dateModified: '2015-12-20T23:53:07.408Z'
+datePublished: '2015-12-21T03:21:51.385Z'
+dateModified: '2015-12-21T03:21:31.227Z'
 author: []
 related: []
 app_links: []
@@ -36,5 +36,3 @@ _type: MediaObject
 
 ---
 ![Full Moon Ceremony Photo in Bali](https://s3-us-west-2.amazonaws.com/the-grid-img/p/55035d45142c87064254dc7b9a11d3e7603b0647.jpg)
-
-<article style=""><h1>Mark Paulda Travel Photography &amp;vert; On Tour Around the World</h1><p>International travel photographer&amp;comma; Mark Paulda&amp;comma; explores cities around the world capturing colourful travel photos&amp;period; License Paulda's travel stock photography&amp;period;</p><img src="https://static.wixstatic.com/media/8c75d1_1ef6987f8cb149beaf980cc02372cdbc.jpg_srz_2500_1946_85_22_0.50_1.20_0.00_jpg_srz" /></article>
