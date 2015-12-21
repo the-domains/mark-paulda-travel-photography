@@ -17,8 +17,8 @@ keywords:
   - best-selling
   - '120'
 description: Learn about International Travel Photographer Mark Paulda in this biography. Colorful Travel Stock Photography.
-datePublished: '2015-12-21T04:03:45.093Z'
-dateModified: '2015-12-21T04:03:14.075Z'
+datePublished: '2015-12-21T04:12:05.832Z'
+dateModified: '2015-12-21T04:10:47.822Z'
 author: []
 related: []
 app_links: []
