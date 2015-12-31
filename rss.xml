@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[International Travel Photography by Mark Paulda]]></title>
         <description><![CDATA[International Travel Photography by Mark Paulda]]></description>
-        <link>https://thegrid.ai/mark-paulda-travel-photography/</link>
+        <link>http://www.travelphotography.global/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 04:29:38 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mark-paulda-travel-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 05:05:36 GMT</lastBuildDate>
+        <atom:link href="http://www.travelphotography.global/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mark Paulda Travel Photography | Home Page]]></title>
             <description><![CDATA[<article><h1>Mark Paulda Travel Photography | Home Page</h1><p>Official Website of International Travel Photographer of Mark Paulda</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2db463a6bbf58f6d4f359fc8f142272dda64d83a.png"></article>]]></description>
@@ -14,9 +14,16 @@
             <pubDate>Mon, 21 Dec 2015 03:01:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mark Paulda | Portfolio]]></title>
+            <description><![CDATA[<article><h1>Mark Paulda | Portfolio</h1><p>License Paulda's Travel Photography</p><img src="http://store.imagebrief.com/profiles/510460bd72fbd5abf0000ddc/avatar/large_photo.JPG"></article>]]></description>
+            <link>http://www.imagebrief.com/photographers/mpauldaphotography?token=OahnmhiE#/portfolio</link>
+            <guid isPermaLink="false">5a451c1b-fedb-4c2a-b548-6d99239d98f5</guid>
+            <pubDate>Thu, 31 Dec 2015 05:04:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0d52d94-57c6-467d-ab2b-440ef45528dc.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/mark-paulda-travel-photography/00503cb9-02a1-4515-ac3d-c459fc2f7f8f/index.html</link>
+            <link>http://www.travelphotography.global/00503cb9-02a1-4515-ac3d-c459fc2f7f8f/index.html</link>
             <guid isPermaLink="false">00503cb9-02a1-4515-ac3d-c459fc2f7f8f</guid>
             <pubDate>Tue, 22 Dec 2015 04:29:00 GMT</pubDate>
         </item>
@@ -68,13 +75,6 @@
             <link>http://www.markpaulda.com/#!blank/u1cl3</link>
             <guid isPermaLink="false">81414574-034b-42d7-8e96-ddc6d73f6ebb</guid>
             <pubDate>Mon, 21 Dec 2015 03:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Paulda Travel Photography | Clients and Projects]]></title>
-            <description><![CDATA[<article><h1>Mark Paulda Travel Photography | Clients and Projects</h1><p>Clients & Projects of Travel Photographer Mark Paulda</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28965ac713c2e8408c557a559b06c8ce5d0d7e23.jpg"></article>]]></description>
-            <link>http://www.markpaulda.com/#!clients-and-projects/snfgy</link>
-            <guid isPermaLink="false">1168ca2f-be23-4330-ba3b-cebb7a0cc178</guid>
-            <pubDate>Mon, 21 Dec 2015 02:53:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
