@@ -4,7 +4,7 @@
         <description><![CDATA[International Travel Photography by Mark Paulda]]></description>
         <link>http://www.travelphotography.global/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 07:55:31 GMT</lastBuildDate>
         <atom:link href="http://www.travelphotography.global/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mark Paulda Travel Photography | Home Page]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 21 Dec 2015 03:01:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Smiles Are The Same In Every Language - A Photography Project]]></title>
+            <description><![CDATA[<article><h1>Smiles Are The Same In Every Language - A Photography Project</h1><p>A worldwide photography project via social media. Collection of people smiling in photographs. Different countries, cultures from around the world, various ethnicities, varied religious backgrounds. Support for photography projects.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80456f1-3c96-46c3-995d-4aefe0630e40.jpg"></article>]]></description>
+            <link>http://www.theworldsmiles.org/</link>
+            <guid isPermaLink="false">a2948fc5-06b2-4f7d-8416-05647428a741</guid>
+            <pubDate>Fri, 08 Jan 2016 07:54:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Texas Photography Book by Texans]]></title>
-            <description><![CDATA[<article><h1>Texas Photography Book by Texans</h1><p>Can you tell the story of Texas in a Photograph? The Texas Photo Book Project. Photographs of Texas by Texans.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c38c7971-1f2b-4882-8f91-94f940b25974.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Texas Photography Book by Texans</h1><p>Can you tell the story of Texas in a Photograph? The Texas Photo Book Project. Photographs of Texas by Texans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/106fb85fd0ee474f842a5241a12d8bff825f095c.png"></article>]]></description>
             <link>http://www.texasphotoproject.com/</link>
             <guid isPermaLink="false">49b2b9e9-b724-45c0-9836-f94f14d50ca2</guid>
             <pubDate>Fri, 08 Jan 2016 07:15:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.markpaulda.com/#!amazing-people-who-changed-me/ficja</link>
             <guid isPermaLink="false">b8f46f95-12d6-4fb9-9db9-4d21a2b75ee6</guid>
             <pubDate>Mon, 21 Dec 2015 03:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Paulda Travel Photography | About Mark Paulda]]></title>
-            <description><![CDATA[<article><h1>Mark Paulda Travel Photography | About Mark Paulda</h1><p>Mark Paulda - International Travel Photographer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c82b89f4ed2ac5609f9ff697aee6f228373dc4e2.png"></article>]]></description>
-            <link>http://www.markpaulda.com/#!about-mark/potxj</link>
-            <guid isPermaLink="false">35a146e3-c5f6-44a4-98e4-c828ebfa89ba</guid>
-            <pubDate>Mon, 21 Dec 2015 04:12:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
