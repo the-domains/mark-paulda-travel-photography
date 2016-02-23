@@ -4,7 +4,7 @@
         <description><![CDATA[International Travel Photography by Mark Paulda]]></description>
         <link>http://www.travelphotography.global/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 07:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 08:48:26 GMT</lastBuildDate>
         <atom:link href="http://www.travelphotography.global/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mark Paulda Travel Photography | Home Page]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 21 Dec 2015 03:01:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The World Wayfarer - Travel Film Photography]]></title>
+            <description><![CDATA[<article><h1>The World Wayfarer - Travel Film Photography</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97643b1753685fbcbc4c6bd85522437f409e8df9.jpg"></article>]]></description>
+            <link>http://www.travelphotography.global/bf034f37-7a1d-4fab-a366-9c0ec4cf068b/index.html</link>
+            <guid isPermaLink="false">bf034f37-7a1d-4fab-a366-9c0ec4cf068b</guid>
+            <pubDate>Tue, 23 Feb 2016 08:48:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Smiles Are The Same In Every Language - A Photography Project]]></title>
-            <description><![CDATA[<article><h1>Smiles Are The Same In Every Language - A Photography Project</h1><p>A worldwide photography project via social media. Collection of people smiling in photographs. Different countries, cultures from around the world, various ethnicities, varied religious backgrounds. Support for photography projects.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80456f1-3c96-46c3-995d-4aefe0630e40.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Smiles Are The Same In Every Language - A Photography Project</h1><p>A worldwide photography project via social media. Collection of people smiling in photographs. Different countries, cultures from around the world, various ethnicities, varied religious backgrounds. Support for photography projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e6ea9638c3753f39afc8fc5862395db749476f.jpg"></article>]]></description>
             <link>http://www.theworldsmiles.org/</link>
             <guid isPermaLink="false">a2948fc5-06b2-4f7d-8416-05647428a741</guid>
             <pubDate>Fri, 08 Jan 2016 07:54:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.markpaulda.com/#!destinations/c1px</link>
             <guid isPermaLink="false">e0160e3d-c720-4b3f-a57c-0adbbf6ec7b2</guid>
             <pubDate>Mon, 21 Dec 2015 03:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Paulda Travel Photography | Amazing People Who Have Changed Me]]></title>
-            <description><![CDATA[<article><h1>Mark Paulda Travel Photography | Amazing People Who Have Changed Me</h1><p>Culture Travel Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad7f03b838abcee285096ff6f3c3aeeb3b916e4.jpg"></article>]]></description>
-            <link>http://www.markpaulda.com/#!amazing-people-who-changed-me/ficja</link>
-            <guid isPermaLink="false">b8f46f95-12d6-4fb9-9db9-4d21a2b75ee6</guid>
-            <pubDate>Mon, 21 Dec 2015 03:19:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
